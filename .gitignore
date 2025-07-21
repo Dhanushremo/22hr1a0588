@@ -1,0 +1,15 @@
+# React 
+**/node_modules/
+**/build/
+**/dist/
+
+# Spring Boot
+**/target/
+
+.vscode/
+.idea/
+
+.DS_Store
+*.log
+.env
+.env.local
